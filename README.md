@@ -1,4 +1,4 @@
-# Todo List API
+# Todo List HTTP Server
 
 This project provides a HTTP server for managing a todo list. You can perform CRUD operations (Create, Read, Update, Delete) on todo items.
 
