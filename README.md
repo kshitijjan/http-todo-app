@@ -1,6 +1,6 @@
 # Todo List HTTP Server
 
-This project provides a HTTP server for managing a todo list. You can perform CRUD operations (Create, Read, Update, Delete) on todo items.
+This project provides a HTTP server for managing a todo list. You can perform CRUD operations (Create, Read, Update, Delete) on todo items. Developed using ***JavaScript/Node.js/Express.js***.
 
 ## Getting Started
 
